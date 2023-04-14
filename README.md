@@ -8,7 +8,7 @@ Adds a hook to detect whether or not the user is in an environment where dark mo
 
 ## Usage
 
-```
+```JavaScript
 import useThemeDetector from "react-theme-hook";
 
 function App() {
